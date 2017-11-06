@@ -1,0 +1,35 @@
+body {
+	background-color: #eee;
+	font-family: sans-serif;
+}
+
+.header {
+	padding: 20px;
+	background-color: #fff;
+	width: 1000px;
+	margin: 0 auto;
+}
+
+h1 {
+	width: 400px;
+}
+/* 
+.header h1 {
+	float: left;
+} */
+
+.logo {
+	float: right;
+}
+
+.main {
+	clear: both;
+	padding: 20px;
+	background-color: #fff;
+	width: 1000px;
+	margin: 0 auto;
+}
+
+.clearfix {
+	clear: both;
+}
